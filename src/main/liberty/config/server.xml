@@ -4,7 +4,7 @@ Tue Mar 24 18:11:29 UTC 2020--><server>
 <featureManager>
 <feature>servlet-4.0</feature>
 <feature>jsp-2.3</feature>
-<feature>mpHealth-1.0</feature>
+<feature>mpHealth-2.1</feature>
     </featureManager>
 <httpEndpoint host="*" httpPort="9080" httpsPort="9443" id="defaultHttpEndpoint"/>
 <!-- <variable name="DERBY_JDBC_DRIVER_PATH" value="${WAS_INSTALL_ROOT}/derby/lib"/> -->
